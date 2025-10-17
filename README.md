@@ -3,6 +3,8 @@
 A minimal, hypnotic aquarium built with **Python + Streamlit**.  
 Watch generative, AI-style fish gently swim across your screen — a digital space for calm and contemplation.
 
+🎨 **Live Demo:** [👉 View on Streamlit Cloud]([https://your-username-dreaming-aquarium.streamlit.app](https://zitatori--aqualium-web-app-app-vtpcdd.streamlit.app/))
+
 ![Dreaming Aquarium Screenshot](fishes.png)
 
 ---
